@@ -5,11 +5,11 @@
 
 - [Description](#description)
 - [User Story](#User-Story)
-- [Technologies](#Technologies)
 - [Acceptance Criteria](#acceptance-criteria)
+- [Deployed](#Demo)
+- [Technologies](#Technologies)
 - [Usage](#usage)
 - [Questions](#questions)
-- [Deployed](#Demo)
 
 ## Description
 
